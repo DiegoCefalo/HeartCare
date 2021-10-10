@@ -1,6 +1,6 @@
 ![HeartCare](https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/08/heart-1596700238.jpg)
 # HeartCare
-Machine Learning Model to predict heart Disease.  
+Machine Learning Model that predicts undiagnosed heart Disease.  
 The model used was XGBoostClassifier and it was optimized with Hyperopt, it was trained with over 900 observations from Cleveland, Hungary, Switzerland, Long Beach CA, Stalog (Heart) Data Set.  
 
 This repository includes a presentation of the project in the "PresentationHeartcare.pdf".   
@@ -10,6 +10,7 @@ Also, in the test folder there are two python scripts that autofill the app (usi
 ![App](https://github.com/DiegoCefalo/HeartCare/blob/main/img/page.png)
 
 ## Accuracy
+![HeartCare](https://github.com/DiegoCefalo/HeartCare/blob/main/img/accuracy.png)
 
 ## Used Libraries
  * [Pandas](https://pandas.pydata.org/docs/)
