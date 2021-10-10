@@ -4,7 +4,8 @@ Machine Learning Model that predicts undiagnosed heart Disease.
 The model used was XGBoostClassifier and it was optimized with Hyperopt, it was trained with over 900 observations from Cleveland, Hungary, Switzerland, Long Beach CA, Stalog (Heart) Data Set.  
 
 This repository includes a presentation of the project in the "PresentationHeartcare.pdf".   
-Also, in the test folder there are two python scripts that autofill the app (using Selenium) for a quick demonstration.
+Also, in the test folder there are two python scripts that autofill the app (using Selenium) for a quick demonstration.  
+All the data was obtained from:  https://www.kaggle.com/fedesoriano/heart-failure-prediction
 
 ## Screenshot of the App
 ![App](https://github.com/DiegoCefalo/HeartCare/blob/main/img/page.png)
