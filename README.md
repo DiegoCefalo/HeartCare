@@ -5,6 +5,9 @@ The model used was XGBoostClassifier and it was optimized with Hyperopt.
 This repository includes a presentation of the project in the "PresentationHeartcare.pdf".   
 Also, in the test folder there are two python scripts that autofill the app (using Selenium) for a quick demonstration.
 
+## Screenshot of the App
+![App](https://github.com/DiegoCefalo/HeartCare/blob/main/img/page.png)
+
 ## Used Libraries
  * [Pandas](https://pandas.pydata.org/docs/)
  * [Numpy](https://numpy.org/doc/stable/)
